@@ -31,7 +31,7 @@ OR this to a place where you need to input a UIImage:
 imageDataIntoUIImage(imageData: yourImageData)
 ``` 
 
-### Example Project is in the Source code. [Download ImagePicker.swift Here.](https://github.com/savagegod22/Image-Picker-for-SwiftUI/releases/tag/v1.0) Or download everything, if you want.
+#### Example Project is in the Source code. [Download ImagePicker.swift Here.](https://github.com/savagegod22/Image-Picker-for-SwiftUI/releases/tag/v1.0) Or download everything, if you want.
 ```swift
 var License = MIT // This means that the license is the MIT License
 ```
